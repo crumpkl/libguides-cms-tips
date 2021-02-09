@@ -1,1 +1,1 @@
-# libguides-cms-tips
+# LibGuides CMS Tips & Tricks
