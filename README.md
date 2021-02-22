@@ -30,5 +30,6 @@
    
    ### Using the Rich Text/HTML box
    
+   When using the Rich Text/HTML box, I've found it easier to go right into the source code and build things with HTML and CSS rather than using the Rich Text box. You have more control over your content and how it looks in the source code. 
    
    
