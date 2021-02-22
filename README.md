@@ -11,6 +11,8 @@
    For example, our website uses four diffent groups : home, subject homepage (research guides), content (side navigation), and ask a librarian (box format). The content and ask a librarian pages have very different layouts, which is why they're in different groups. If I needed to add another content page with side navigation, I would make sure to select the content group when creating a new guide. That way any of the overall code (header, footer, css/js) of that group is automatically added to the new guide.
    
    Creating and using groups makes it easier to organize your pages, ensuring they all have the same design, and utilize the same code. 
+   
+   #### Using the CSS/JS box within Groups
   
   ### Templates
   
@@ -25,5 +27,8 @@
    Font Awesome version 4.7 https://fontawesome.com/v4.7.0/
    
    Bootstrap v3 3.7 https://getbootstrap.com/docs/3.3/getting-started/
+   
+   ### Using the Rich Text/HTML box
+   
    
    
