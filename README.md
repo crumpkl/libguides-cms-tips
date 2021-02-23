@@ -16,6 +16,8 @@
   
   ### Templates
   
+  The templates available for use and adaption in LibGuides CMS correspond to the framework LibGuides has created and built their website (back-end). We can go into the templates and adapt them for our own means. The existing template for a side navigation gives us one big area for content but if you find you want to have 2 areas of content instead of one, you can add another column via adapting and saving a new template. We discovered this through a LibGuides CMS training video. These training videos are very helpful when you're starting out and aren't entirely sure how the CMS works or how to make it work for you.  
+  
   ### Adding Images
   
   ### Use the correct version of Boostrap and Font Awesome
