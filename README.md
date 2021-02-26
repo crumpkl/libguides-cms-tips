@@ -8,7 +8,7 @@
   
   As an admin in LibGuides, you can add groups to the CMS. Each group will correspond with a specific template or layout. You can use a group for the home page, another for your research guides, one for your website content pages, and so on. 
    
-   For example, our website uses four diffent groups : home, subject homepage (research guides), content (side navigation), and ask a librarian (box format). The content and ask a librarian pages have very different layouts, which is why they're in different groups. If I needed to add another content page with side navigation, I would make sure to select the content group when creating a new guide. That way any of the overall code (header, footer, css/js) of that group is automatically added to the new guide.
+   For example, our website uses four different groups : home, subject homepage (research guides), content (side navigation), and ask a librarian (box format). The content and ask a librarian pages have very different layouts, which is why they're in different groups. If I needed to add another content page with side navigation, I would make sure to select the content group when creating a new guide. That way any of the overall code (header, footer, css/js) of that group is automatically added to the new guide.
    
    Creating and using groups makes it easier to organize your pages, ensuring they all have the same design, and utilize the same code. 
    
