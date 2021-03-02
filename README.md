@@ -14,7 +14,7 @@
    
    #### Using the CSS/JS box within Groups
    
-   When using the CSS/JS box within the Admin Groups allows you to change the CSS/JS across all the pages within the Groups. This is helpful when building and making changes to the header/footer across the entire website (different groups included). 
+   When using the CSS/JS box within the Admin Groups allows you to change the CSS/JS across all the pages within the Groups. This is helpful when building and making changes to the header and footer across the entire website (different groups included). By using the group wide CSS/JS box instead of the guide level CSS/JS box ensures consistency within the design and makes it easier in the long run when applying changes to the code when it comes to updating the look of the website. Being able to locate the code and make group wide changes will save time when completing minor changes and updates that come with maintaining a website. 
   
   ### Templates
   
