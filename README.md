@@ -1,6 +1,6 @@
 # LibGuides CMS Tips & Tricks
 
-  These are some tips and tricks I use when building and updating the Gregg-Graniteville Library website (https://library.usca.edu/home). 
+  These are some tips and tricks I found useful when building and updating the Gregg-Graniteville Library website (https://library.usca.edu/home). 
  
 ## Understanding LibGuides CMS
 
@@ -10,15 +10,15 @@
    
    For example, our website uses four different groups: home, subject homepage (research guides), content (side navigation), and ask a librarian (box format). The content and ask a librarian pages have very different layouts, which is why they're in different groups. If I needed to add another content page with side navigation, I would make sure to select the content group when creating a new guide. That way any of the overall code (header, footer, css/js) of that group is automatically added to the new guide.
    
-   Creating and using groups makes it easier to organize your pages, ensuring they all have the same design, and utilize the same code. 
+   Creating and using groups makes it easier to organize your pages, ensuring they all have the same design and utilize the same code. The groups also help with making sure specific templates are for particular groups. LibGuides CMS doesn't make a lot of things easy but the organization of the different pages with different templates within groups helps to streamline editing and updating your code when it comes to the header, footer, and overall CSS/JS for all the pages within the specific group. 
    
    #### Using the CSS/JS box within Groups
    
-   When using the CSS/JS box within the Admin Groups allows you to change the CSS/JS across all the pages within the Groups. This is helpful when building and making changes to the header and footer across the entire website (different groups included). By using the group wide CSS/JS box instead of the guide level CSS/JS box ensures consistency within the design and makes it easier in the long run when applying changes to the code when it comes to updating the look of the website. Being able to locate the code and make group wide changes will save time when completing minor changes and updates that come with maintaining a website. 
+   When using the CSS/JS box within the admin groups allows you to change the CSS/JS across all the pages within the Groups. This is helpful when building and making changes to the header and footer across the entire website (different groups included). By using the group wide CSS/JS box instead of the guide level CSS/JS box ensures consistency within the design and makes it easier in the long run when applying changes to the code when it comes to updating the look of the website. Being able to locate the code and make group wide changes will save time when completing minor changes and updates that come with maintaining a website. 
   
   ### Templates
   
-  The templates available for use and adaption in LibGuides CMS correspond to the framework LibGuides has created and built their website (back-end). We can go into the templates and adapt them for our own means. The existing template for a side navigation gives us one big area for content but if you find you want to have 2 areas of content instead of one, you can add another column via adapting and saving a new template. We discovered this through a LibGuides CMS training video. These training videos are very helpful when you're starting out and aren't entirely sure how the CMS works or how to make it work for you.  
+  The templates available for use and adaption in LibGuides CMS correspond to the framework LibGuides has created and built their website (back-end). We can go into the templates and adapt them for our own means. The existing template for a side navigation gives us one big area for content but if you find you want to have two areas of content instead of one, you can add another column via adapting and saving a new template. We discovered this through a LibGuides CMS training video. These training videos are very helpful when you're starting out and aren't entirely sure how the CMS works or how to make it work for you.  
   
   ### Adding Images
   
@@ -34,6 +34,6 @@
    
    ### Using the Rich Text/HTML box
    
-   When using the Rich Text/HTML box, I've found it easier to go right into the source code and build things with HTML and CSS rather than using the Rich Text box. You have more control over your content and how it looks in the source code. 
+   When using the Rich Text/HTML box, I've found it easier to go right into the source code and build things with HTML and CSS rather than using the Rich Text box. You have more control over your content and how it looks in the source code. By writing out your content in HTML and CSS via the source code, you're able to have more control over each individual element witin the source code box. This give us the ability to add more style than we'd be able to by using the guide level CSS/JS. Also, the guide level CSS/JS only allows a limited number of characters. This is not the case with the source code box. 
    
    
