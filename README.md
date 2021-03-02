@@ -13,6 +13,8 @@
    Creating and using groups makes it easier to organize your pages, ensuring they all have the same design, and utilize the same code. 
    
    #### Using the CSS/JS box within Groups
+   
+   When using the CSS/JS box within the Admin Groups allows you to change the CSS/JS across all the pages within the Groups. This is helpful when building and making changes to the header/footer across the entire website (different groups included). 
   
   ### Templates
   
