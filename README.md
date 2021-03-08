@@ -12,6 +12,10 @@
    
    Creating and using groups makes it easier to organize your pages, ensuring they all have the same design and utilize the same code. The groups also help with making sure specific templates are for particular groups. LibGuides CMS doesn't make a lot of things easy but the organization of the different pages with different templates within groups helps to streamline editing and updating your code when it comes to the header, footer, and overall CSS/JS for all the pages within the specific group. 
    
+   ### Using the Header/Footer/Tab/Boxes within Groups
+   
+   The Header/Footer/Tab/Boxes area within the Groups gives us the ability to write or copy/paste the HTML code necessary to build the header and footer for the particular pages housed within the specific group and streamline the appropriate styles for the tab/box options for the group. The header and footer boxes are nice because we know exactly where the header and footer code is located for each individual group. There is no searching around for the code when making changes for each group because all of the code is in the same area. This also rings true for applying CSS/JS to the site. 
+   
    #### Using the CSS/JS box within Groups
    
    When using the CSS/JS box within the admin groups allows you to change the CSS/JS across all the pages within the Groups. This is helpful when building and making changes to the header and footer across the entire website (different groups included). By using the group wide CSS/JS box instead of the guide level CSS/JS box ensures consistency within the design and makes it easier in the long run when applying changes to the code when it comes to updating the look of the website. Being able to locate the code and make group wide changes will save time when completing minor changes and updates that come with maintaining a website. 
