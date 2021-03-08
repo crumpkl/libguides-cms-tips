@@ -30,7 +30,7 @@
   
   First, you must download the images to the Image Manager located under the Content navigation. Next, you want to upload your image. Please make sure your image isn't too big or it will increase your website's loading time. The last thing we want our users to do is wait to access our content. LibGuides includes the following information before the upload button "UPLOAD AN IMAGE - Supported formats include JPG, JPEG, GIF, PNG, and ICO up to 5MB in size." Once you've successfully uploaded your picture, you'll find it located within your folder. You can add multiple folders and organize your pictures to suit your needs. 
   
-  
+  After you've successfully downloaded your image, you'll notice there are two icons under the image. One is a chain (click to view the image URL - this will come in handy when adding the image to HTML code) and an X (to delete the image). The chain icon is the most important, especially if you plan to add your images via HTML box and not the widget box. However, if you plan to use the Gallery box (more on that later) on any of your pages, you will notice a different icon to add images. 
   
   ### Use the correct version of Bootstrap and Font Awesome
   
