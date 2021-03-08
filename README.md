@@ -26,6 +26,12 @@
   
   ### Adding Images
   
+  Adding images within LibGuides CMS requires a few steps and depending on how, what, and where you plan to use the images can be even more tricky. 
+  
+  First, you must download the images to the Image Manager located under the Content navigation. Next, you want to upload your image. Please make sure your image isn't too big or it will increase your website's loading time. The last thing we want our users to do is wait to access our content. LibGuides includes the following information before the upload button "UPLOAD AN IMAGE - Supported formats include JPG, JPEG, GIF, PNG, and ICO up to 5MB in size." Once you've successfully uploaded your picture, you'll find it located within your folder. You can add multiple folders and organize your pictures to suit your needs. 
+  
+  
+  
   ### Use the correct version of Bootstrap and Font Awesome
   
    Because the back-end (creator) side of LibGuides CMS, it's important to make sure you're using the same version of both Bootstrap and Font Awesome (if using). If you use a different or the most current version on the front-end side, certain elements in the back-end will not load correctly. 
