@@ -32,6 +32,10 @@
   
   After you've successfully downloaded your image, you'll notice there are two icons under the image. One is a chain (click to view the image URL - this will come in handy when adding the image to HTML code) and an X (to delete the image). The chain icon is the most important, especially if you plan to add your images via HTML box and not the widget box. However, if you plan to use the Gallery box (more on that later) on any of your pages, you will notice a different icon to add images. 
   
+  #### Gallery Box
+  
+  Adding images to the Gallery box is simple and straightfoward. After you'd added the gallery box to your guide, click on the cog in the uppper right and side to add panels to your new box. When adding an image, you will be pulling images from the Image manager, so make sure the image you want is already uploaded to the Image manager. Next, click on the Open Image Manager to find and add your desired image. It's important to note that when adding an image, you have two options, you can click on the picture icon to reuse the image or you can click on the chain icon to copy/paste the image URL into the slide image URL box on the gallery prompted box to add an image. Both will add the selected image so it's your choice. Below the area where you can add your image is where you can add the link URL, image alt text, slide title, and slide details. 
+  
   ### Use the correct version of Bootstrap and Font Awesome
   
    Because the back-end (creator) side of LibGuides CMS, it's important to make sure you're using the same version of both Bootstrap and Font Awesome (if using). If you use a different or the most current version on the front-end side, certain elements in the back-end will not load correctly. 
