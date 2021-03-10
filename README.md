@@ -44,6 +44,8 @@
    
    ### Using the Rich Text/HTML box
    
-   When using the Rich Text/HTML box, I've found it easier to go right into the source code and build things with HTML and CSS rather than using the Rich Text box. You have more control over your content and how it looks in the source code. By writing out your content in HTML and CSS via the source code, you're able to have more control over each individual element witin the source code box. This give us the ability to add more style than we'd be able to by using the guide level CSS/JS. Also, the guide level CSS/JS only allows a limited number of characters. This is not the case with the source code box. 
+   When using the Rich Text/HTML box, I've found it easier to go right into the source code and build things with HTML and CSS rather than using the Rich Text box. When writing your content in HTML and CSS via the source code, you're able to have more control over each individual element within the source code box. This give us the ability to add more style than we'd be able to by using the guide level CSS/JS. Also, the guide level CSS/JS only allows a limited number of characters (2000 characters). However, this is not the case with the source code box. 
+   
+   The source code (HTML section) allows you to add CSS with the style tags. This is an easy and great to add individual style to tabbed and standard boxes. You can adjust any spacing concerns you might run across when adding content via the rich text/widget box. For example, when our content creators finished adding their content via the rich text component, I went into the source code (HTML) and rewrote the content using the appropriate HTML/CSS code. This allowed our content to render correctly and consistently on all of our pages. 
    
    
