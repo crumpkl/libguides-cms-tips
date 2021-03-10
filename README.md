@@ -34,7 +34,11 @@
   
   #### Gallery Box
   
-  Adding images to the Gallery box is simple and straightfoward. After you'd added the gallery box to your guide, click on the cog in the uppper right and side to add panels to your new box. When adding an image, you will be pulling images from the Image manager, so make sure the image you want is already uploaded to the Image manager. Next, click on the Open Image Manager to find and add your desired image. It's important to note that when adding an image, you have two options, you can click on the picture icon to reuse the image or you can click on the chain icon to copy/paste the image URL into the slide image URL box on the gallery prompted box to add an image. Both will add the selected image so it's your choice. Below the area where you can add your image is where you can add the link URL, image alt text, slide title, and slide details. 
+  Adding images to the Gallery box is simple and straightfoward. After you'd added the gallery box to your guide, click on the cog in the uppper right and side to add panels to your new box. 
+  
+  When adding an image, you will be pulling images from the Image manager, so make sure the image you want is already uploaded to the Image manager. Next, click on the Open Image Manager to find and add your desired image. It's important to note that when adding an image, you have two options, you can click on the picture icon to reuse the image or you can click on the chain icon to copy/paste the image URL into the slide image URL box on the gallery prompted box to add an image. Both will add the selected image so it's your choice. 
+  
+  Below the area where you can add your image is where you can add the link URL, image alt text, slide title, and slide details. 
   
   ### Use the correct version of Bootstrap and Font Awesome
   
