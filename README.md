@@ -57,3 +57,6 @@
    The source code (HTML section) allows you to add CSS with the style tags. This is an easy and great to add individual style to tabbed and standard boxes. You can adjust any spacing concerns you might run across when adding content via the rich text/widget box. For example, when our content creators finished adding their content via the rich text component, I went into the source code (HTML) and rewrote the content using the appropriate HTML/CSS code. This allowed our content to render correctly and consistently on all of our pages. 
    
    
+   ##Designing for LibGuides CMS
+   
+   
