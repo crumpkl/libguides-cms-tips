@@ -60,3 +60,5 @@
    ## Designing for LibGuides CMS
    
    LibGudies CMS Academic Libraries Examples https://buzz.springshare.com/producthighlights/libguidescms-as-website/academicexamples/az
+   
+   When designing for LibGuides CMS, looking at other libraries' sites helps to see what the CMS is capable of and to brainstorm ideas. 
