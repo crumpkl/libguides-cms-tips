@@ -59,4 +59,4 @@
    
    ## Designing for LibGuides CMS
    
-   
+   LibGudies CMS Academic Libraries Examples https://buzz.springshare.com/producthighlights/libguidescms-as-website/academicexamples/az
