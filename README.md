@@ -62,3 +62,5 @@
    LibGudies CMS Academic Libraries Examples https://buzz.springshare.com/producthighlights/libguidescms-as-website/academicexamples/az
    
    When designing for LibGuides CMS, looking at other libraries' sites helps to see what the CMS is capable of and to brainstorm ideas. 
+   
+   I'm a big fan of using boxes as design elements. It streamlines the design and ensures the boxes will stack nicely in tablet and mobile. I use boxes for buttons, featured events, contact information and etc. 
