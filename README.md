@@ -63,4 +63,4 @@
    
    When designing for LibGuides CMS, looking at other libraries' sites helps to see what the CMS is capable of and to brainstorm ideas. 
    
-   I'm a big fan of using boxes as design elements. It streamlines the design and ensures the boxes will stack nicely in tablet and mobile. I use boxes for buttons, featured events, contact information and etc. 
+   I'm a big fan of using boxes as design elements. It streamlines the design and ensures the boxes will stack nicely in tablet and mobile. I use boxes for buttons, featured events, contact information and etc. You can even use some of the Bootstrap elements (row and col class) to make it easier for the boxes to line up on a single line.
